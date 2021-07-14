@@ -34,7 +34,7 @@
                   </Pane>
                </children>
             </Pane>
-            <Button fx:id="btnStudents" alignment="BASELINE_LEFT" graphicTextGap="10.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="66.0" prefWidth="397.0" stylesheets="@../css/fullpackstyling.css" text="Students" textFill="WHITE">
+            <Button fx:id="btnStudents" alignment="BASELINE_LEFT" graphicTextGap="10.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="62.0" prefWidth="302.0" stylesheets="@../css/fullpackstyling.css" text="Students" textFill="WHITE">
                <opaqueInsets>
                   <Insets left="52.0" />
                </opaqueInsets>
